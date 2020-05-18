@@ -2,8 +2,10 @@
 ![C/C++ CI](https://github.com/Simhyeon/kookminSnake/workflows/C/C++%20CI/badge.svg)
 
 ### 참여인 
-- 20150803 사법학과 육심현
-- 20191587          류희재
+|  <center>name</center> |  <center>major</center> |  <center>>student id</center> |
+|:--------|:--------:|:--------|
+| 육심현 |사법학과| <center>20150803</center> |
+| 류희재 |소프트웨어학과  | <center>20191587</center> |
 
 ### 맡은 역할
 
